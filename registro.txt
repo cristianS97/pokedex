@@ -1,0 +1,20 @@
+Busqueda realizada: 21/03/2020, 14:48:06
+Pokemon a buscar: bulbasaur - Estado busqueda: Exito
+Busqueda realizada: 21/03/2020, 14:48:10
+Pokemon a buscar: kangaskhan - Estado busqueda: Exito
+========================================================
+La conexion se inicio en la fecha: 21/03/2020
+La conexion se termino en la fecha: 21/03/2020
+Tiempo total de conexion: 0:00:19.961886
+Se realizaron un total de 2 operaciones
+========================================================
+Busqueda realizada: 21/03/2020, 14:48:29
+Pokemon a buscar: shaymin-land - Estado busqueda: Exito
+Busqueda realizada: 21/03/2020, 14:48:36
+Pokemon a buscar: arceus - Estado busqueda: Exito
+========================================================
+La conexion se inicio en la fecha: 21/03/2020
+La conexion se termino en la fecha: 21/03/2020
+Tiempo total de conexion: 0:00:25.742555
+Se realizaron un total de 2 operaciones
+========================================================
