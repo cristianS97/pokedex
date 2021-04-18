@@ -18,3 +18,55 @@ La conexion se termino en la fecha: 21/03/2020
 Tiempo total de conexion: 0:00:25.742555
 Se realizaron un total de 2 operaciones
 ========================================================
+La busqueda se realizo: 07/05/2020, 12:45:57
+El tipo buscado es: ground - Estado busqueda: Exito
+Busqueda realizada: 07/05/2020, 12:46:22
+Pokemon a buscar: metapod - Estado busqueda: Exito
+Busqueda realizada: 07/05/2020, 12:46:58
+Pokemon a buscar: lugia - Estado busqueda: Exito
+Busqueda realizada: 07/05/2020, 12:47:33
+Pokemon a buscar: metagross - Estado busqueda: Exito
+========================================================
+La conexion se inicio en la fecha: 07/05/2020
+La conexion se termino en la fecha: 07/05/2020
+Tiempo total de conexion: 0:03:50.746876
+Se realizaron un total de 4 operaciones
+========================================================
+La busqueda se realizo: 03/10/2020, 22:06:40
+El tipo buscado es: ground - Estado busqueda: Exito
+Busqueda realizada: 03/10/2020, 22:06:50
+Pokemon a buscar: jigglypuff - Estado busqueda: Exito
+Busqueda realizada: 03/10/2020, 22:06:58
+Pokemon a buscar: slowpoke - Estado busqueda: Exito
+========================================================
+La conexion se inicio en la fecha: 03/10/2020
+La conexion se termino en la fecha: 03/10/2020
+Tiempo total de conexion: 0:00:48.629284
+Se realizaron un total de 3 operaciones
+========================================================
+La busqueda se realizo: 04/11/2020, 00:14:39
+El tipo buscado es: poison - Estado busqueda: Exito
+Busqueda realizada: 04/11/2020, 00:14:55
+Pokemon a buscar: togetic - Estado busqueda: Exito
+Busqueda realizada: 04/11/2020, 00:15:05
+Pokemon a buscar: roselia - Estado busqueda: Exito
+Busqueda realizada: 04/11/2020, 00:15:21
+Pokemon a buscar: wormadam-plant - Estado busqueda: Exito
+Busqueda realizada: 04/11/2020, 00:15:28
+Pokemon a buscar: porygon-z - Estado busqueda: Exito
+Busqueda realizada: 04/11/2020, 00:15:41
+Pokemon a buscar: pidove - Estado busqueda: Exito
+Busqueda realizada: 04/11/2020, 00:15:55
+Pokemon a buscar: carracosta - Estado busqueda: Exito
+Busqueda realizada: 04/11/2020, 00:16:22
+Pokemon a buscar: talonflame - Estado busqueda: Fallo
+Busqueda realizada: 04/11/2020, 00:16:27
+Pokemon a buscar: dragalge - Estado busqueda: Fallo
+Busqueda realizada: 04/11/2020, 00:16:34
+Pokemon a buscar: zebstrika - Estado busqueda: Exito
+========================================================
+La conexion se inicio en la fecha: 04/11/2020
+La conexion se termino en la fecha: 04/11/2020
+Tiempo total de conexion: 0:03:13.401807
+Se realizaron un total de 10 operaciones
+========================================================
