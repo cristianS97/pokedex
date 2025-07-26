@@ -70,3 +70,45 @@ La conexion se termino en la fecha: 04/11/2020
 Tiempo total de conexion: 0:03:13.401807
 Se realizaron un total de 10 operaciones
 ========================================================
+La busqueda se realizo: 22/04/2023, 15:03:36
+El tipo buscado es: poison - Estado busqueda: Exito
+Busqueda realizada: 22/04/2023, 15:03:46
+Pokemon a buscar: sandslash - Estado busqueda: Exito
+========================================================
+La conexion se inicio en la fecha: 22/04/2023
+La conexion se termino en la fecha: 22/04/2023
+Tiempo total de conexion: 0:01:17.259673
+Se realizaron un total de 2 operaciones
+========================================================
+Busqueda realizada: 25/07/2025, 22:34:54
+Pokemon a buscar: hoppip - Estado busqueda: Exito
+========================================================
+La conexion se inicio en la fecha: 25/07/2025
+La conexion se termino en la fecha: 25/07/2025
+Tiempo total de conexion: 0:01:00.678869
+Se realizaron un total de 1 operaciones
+========================================================
+La busqueda se realizo: 25/07/2025, 22:39:43
+El tipo buscado es: bug - Estado busqueda: Exito
+Busqueda realizada: 25/07/2025, 22:39:49
+Pokemon a buscar: wartortle - Estado busqueda: Exito
+Busqueda realizada: 25/07/2025, 22:39:58
+Pokemon a buscar: charmander - Estado busqueda: Exito
+Busqueda realizada: 25/07/2025, 22:40:06
+Pokemon a buscar: ledian - Estado busqueda: Exito
+Busqueda realizada: 25/07/2025, 22:40:07
+Pokemon a buscar: ledian - Estado busqueda: Exito
+Busqueda realizada: 25/07/2025, 22:40:18
+Pokemon a buscar: beautifly - Estado busqueda: Exito
+Busqueda realizada: 25/07/2025, 22:40:26
+Pokemon a buscar: miraidon-glide-mode - Estado busqueda: Fallo
+Busqueda realizada: 25/07/2025, 22:40:29
+Pokemon a buscar: miraidon-glide-mode - Estado busqueda: Fallo
+Busqueda realizada: 25/07/2025, 22:40:39
+Pokemon a buscar: flutter-mane - Estado busqueda: Fallo
+Busqueda realizada: 25/07/2025, 22:40:45
+Pokemon a buscar: cursola - Estado busqueda: Exito
+Busqueda realizada: 25/07/2025, 22:40:56
+Pokemon a buscar: snom - Estado busqueda: Exito
+Busqueda realizada: 25/07/2025, 22:41:50
+Pokemon a buscar: blastoise - Estado busqueda: Exito
